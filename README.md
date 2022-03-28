@@ -1,4 +1,2 @@
-# test-repository
-This is a test description
-
-This is a second change
+# Mein erste repository
+Alles gelöscht das ist etwas neues!
